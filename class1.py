@@ -19,4 +19,4 @@ decimal = int(input("Enter a decimal number: "))
 
 binary = decimal_to_binary(decimal, 16)
 negative_binary = apply_twos_complement(binary, 16)
-print("Negative binary representation (two's complement):", negative_binary)
+print("Negative binary representation (two's complement):", negative_binary)\
