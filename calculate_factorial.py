@@ -10,3 +10,4 @@ print(calculate_factorial(5))  # Output: 120
 print(calculate_factorial(0))  # Output: 1
 print(calculate_factorial(10))  # Output: 3628800
 print(calculate_factorial(-2))  # Output: "Factorial is not defined for negative numbers"
+print("maor hazut ")
